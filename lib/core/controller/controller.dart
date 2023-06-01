@@ -1,0 +1,10 @@
+export './add_post_controller.dart';
+export './chat_controller.dart';
+export './comments_controller.dart';
+export './login_controller.dart';
+export './mobile_screen_layout_controller.dart';
+export './profile_controller.dart';
+export './search_user_controller.dart';
+export './signup_controller.dart';
+export './socio_map_controller.dart';
+export 'package:get/get.dart';
